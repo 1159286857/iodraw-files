@@ -261,6 +261,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Oa6xztnHxKwex0NDaKal-39" value="网络请求" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-592" y="2250" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
