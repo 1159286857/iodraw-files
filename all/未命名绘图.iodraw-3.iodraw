@@ -327,7 +327,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Oa6xztnHxKwex0NDaKal-60" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Oa6xztnHxKwex0NDaKal-60" value="消息分发" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-420" y="2486" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
