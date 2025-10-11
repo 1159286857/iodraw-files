@@ -225,6 +225,9 @@
         <mxCell id="Oa6xztnHxKwex0NDaKal-27" value="登录窗口&lt;br&gt;主聊天窗口&lt;br&gt;群组管理窗口&lt;div&gt;好友列表组件&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-690" y="2170" width="90" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="Oa6xztnHxKwex0NDaKal-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-555" y="2130" width="150" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
