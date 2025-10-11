@@ -291,8 +291,8 @@
         <mxCell id="Oa6xztnHxKwex0NDaKal-49" value="业务层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-345" y="2370" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Oa6xztnHxKwex0NDaKal-50" value="MySQL连接池&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-680" y="2400" width="100" height="30" as="geometry" />
+        <mxCell id="Oa6xztnHxKwex0NDaKal-50" value="MySQL连接池&lt;div&gt;UserModel&lt;/div&gt;&lt;div&gt;FrienfModel&lt;br&gt;GroupModel&lt;/div&gt;&lt;div&gt;offilineMessageModel&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-700" y="2400" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
