@@ -270,6 +270,9 @@
         <mxCell id="Oa6xztnHxKwex0NDaKal-42" value="服务端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-520" y="2340" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Oa6xztnHxKwex0NDaKal-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="2140" width="150" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
