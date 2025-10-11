@@ -150,14 +150,8 @@
         <mxCell id="txqVB8lS5YxdfIwYK4iH-10" value="验证密码" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-635" y="1140" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="txqVB8lS5YxdfIwYK4iH-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-50" y="1080" as="sourcePoint" />
-            <mxPoint x="50" y="1080" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="txqVB8lS5YxdfIwYK4iH-14" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="txqVB8lS5YxdfIwYK4iH-13">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="txqVB8lS5YxdfIwYK4iH-17" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1400" width="140" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
