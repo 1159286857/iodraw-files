@@ -307,7 +307,7 @@
           <mxGeometry x="-590" y="2570" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Oa6xztnHxKwex0NDaKal-55" value="RedisClient" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-440" y="2550" width="60" height="30" as="geometry" />
+          <mxGeometry x="-420" y="2570" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Oa6xztnHxKwex0NDaKal-56" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Oa6xztnHxKwex0NDaKal-28" target="Oa6xztnHxKwex0NDaKal-46">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -317,6 +317,16 @@
         </mxCell>
         <mxCell id="Oa6xztnHxKwex0NDaKal-57" value="Tcp通信" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-540" y="2300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Oa6xztnHxKwex0NDaKal-59" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-370" y="2540" as="sourcePoint" />
+            <mxPoint x="-320" y="2490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-320" y="2540" />
+              <mxPoint x="-370" y="2490" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
