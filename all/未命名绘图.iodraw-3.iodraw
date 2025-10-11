@@ -355,8 +355,8 @@
         <mxCell id="Oa6xztnHxKwex0NDaKal-66" value="基础设施" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-520" y="2720" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Oa6xztnHxKwex0NDaKal-67" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-540" y="2740" width="60" height="30" as="geometry" />
+        <mxCell id="Oa6xztnHxKwex0NDaKal-67" value="MySQL&lt;div&gt;Redis&lt;br&gt;Nginx&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="2760" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
