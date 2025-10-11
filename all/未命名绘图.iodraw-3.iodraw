@@ -315,7 +315,7 @@
             <mxPoint x="-970" y="2100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Oa6xztnHxKwex0NDaKal-57" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Oa6xztnHxKwex0NDaKal-57" value="Tcp通信" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-540" y="2300" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
