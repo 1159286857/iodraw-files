@@ -497,12 +497,12 @@
         <mxCell id="HwoK8IN2lTrdyxkXvh0C-39" value="短信/回执请求" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-370" y="3550" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HwoK8IN2lTrdyxkXvh0C-41" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="HwoK8IN2lTrdyxkXvh0C-41" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HwoK8IN2lTrdyxkXvh0C-9" target="HwoK8IN2lTrdyxkXvh0C-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-472" y="3310" as="sourcePoint" />
-            <mxPoint x="-194" y="3310" as="targetPoint" />
+            <mxPoint x="-380" y="3450" as="sourcePoint" />
+            <mxPoint x="-102" y="3450" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-330" y="3280" />
+              <mxPoint x="-238" y="3420" />
             </Array>
           </mxGeometry>
         </mxCell>
