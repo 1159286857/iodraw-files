@@ -461,12 +461,12 @@
         <mxCell id="HwoK8IN2lTrdyxkXvh0C-31" value="短信/回执请求" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-370" y="3250" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HwoK8IN2lTrdyxkXvh0C-32" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="HwoK8IN2lTrdyxkXvh0C-32" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HwoK8IN2lTrdyxkXvh0C-8" target="HwoK8IN2lTrdyxkXvh0C-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-180" y="3200" as="sourcePoint" />
             <mxPoint x="-130" y="3150" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-130" y="3200" />
+              <mxPoint x="-320" y="3360" />
             </Array>
           </mxGeometry>
         </mxCell>
