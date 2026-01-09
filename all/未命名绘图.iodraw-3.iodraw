@@ -380,6 +380,9 @@
         <mxCell id="HwoK8IN2lTrdyxkXvh0C-4" value="外部消息/文档读取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-600" y="3160" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="HwoK8IN2lTrdyxkXvh0C-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="3270" width="240" height="210" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
