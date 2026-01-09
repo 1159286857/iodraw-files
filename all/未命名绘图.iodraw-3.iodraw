@@ -470,8 +470,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HwoK8IN2lTrdyxkXvh0C-33" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="HwoK8IN2lTrdyxkXvh0C-33" value="应答" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-370" y="3320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HwoK8IN2lTrdyxkXvh0C-34" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="HwoK8IN2lTrdyxkXvh0C-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-350" y="3650" as="sourcePoint" />
+            <mxPoint x="-300" y="3600" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
