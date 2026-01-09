@@ -389,8 +389,8 @@
         <mxCell id="HwoK8IN2lTrdyxkXvh0C-8" value="Client1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-600" y="3300" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HwoK8IN2lTrdyxkXvh0C-9" value="Client1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-590" y="3310" width="110" height="40" as="geometry" />
+        <mxCell id="HwoK8IN2lTrdyxkXvh0C-9" value="Server1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="3380" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
