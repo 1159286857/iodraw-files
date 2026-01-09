@@ -509,7 +509,7 @@
         <mxCell id="HwoK8IN2lTrdyxkXvh0C-43" value="应答2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-370" y="3477" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HwoK8IN2lTrdyxkXvh0C-50" value="接收forward包队列" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HwoK8IN2lTrdyxkXvh0C-50" value="接收forward包队列s_solve_rcv" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-260" y="3190" width="220" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HwoK8IN2lTrdyxkXvh0C-52" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HwoK8IN2lTrdyxkXvh0C-50" target="HwoK8IN2lTrdyxkXvh0C-22">
