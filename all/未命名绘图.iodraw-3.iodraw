@@ -524,6 +524,11 @@
             <mxPoint x="-120" y="3100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="HwoK8IN2lTrdyxkXvh0C-57" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HwoK8IN2lTrdyxkXvh0C-53">
+          <mxGeometry x="-0.0649" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="HwoK8IN2lTrdyxkXvh0C-54" value="接收forward包队列" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-650" y="3620" width="230" height="20" as="geometry" />
         </mxCell>
