@@ -381,7 +381,7 @@
           <mxGeometry x="-597" y="3160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HwoK8IN2lTrdyxkXvh0C-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-910" y="3270" width="500" height="290" as="geometry" />
+          <mxGeometry x="-910" y="3270" width="500" height="370" as="geometry" />
         </mxCell>
         <mxCell id="HwoK8IN2lTrdyxkXvh0C-7" value="SMGWdemo1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-760" y="3160" width="92" height="30" as="geometry" />
@@ -423,7 +423,7 @@
           <mxGeometry x="-209.5" y="3590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HwoK8IN2lTrdyxkXvh0C-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="3270" width="410" height="280" as="geometry" />
+          <mxGeometry x="-280" y="3180" width="410" height="370" as="geometry" />
         </mxCell>
         <mxCell id="HwoK8IN2lTrdyxkXvh0C-20" value="SMGWdemo2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-94.5" y="3070" width="92" height="30" as="geometry" />
