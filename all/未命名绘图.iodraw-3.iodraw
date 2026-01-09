@@ -426,7 +426,7 @@
           <mxGeometry x="-280" y="3270" width="257.5" height="280" as="geometry" />
         </mxCell>
         <mxCell id="HwoK8IN2lTrdyxkXvh0C-20" value="SMGWdemo2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="3170" width="92" height="30" as="geometry" />
+          <mxGeometry x="-114.5" y="3270" width="92" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HwoK8IN2lTrdyxkXvh0C-21" value="Client2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-204.5" y="3490" width="110" height="40" as="geometry" />
@@ -449,7 +449,7 @@
             <mxPoint x="-370" y="3630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HwoK8IN2lTrdyxkXvh0C-30" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HwoK8IN2lTrdyxkXvh0C-8" target="HwoK8IN2lTrdyxkXvh0C-20">
+        <mxCell id="HwoK8IN2lTrdyxkXvh0C-30" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HwoK8IN2lTrdyxkXvh0C-8" target="HwoK8IN2lTrdyxkXvh0C-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-350" y="3210" as="sourcePoint" />
             <mxPoint x="-300" y="3160" as="targetPoint" />
