@@ -416,8 +416,8 @@
             <mxPoint x="-750" y="3480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HwoK8IN2lTrdyxkXvh0C-17" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-542" y="3360" width="60" height="30" as="geometry" />
+        <mxCell id="HwoK8IN2lTrdyxkXvh0C-17" value="取出回执" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-532.5" y="3360" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
