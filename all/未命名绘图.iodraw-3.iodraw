@@ -419,6 +419,48 @@
         <mxCell id="HwoK8IN2lTrdyxkXvh0C-17" value="取出回执" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-532.5" y="3360" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="HwoK8IN2lTrdyxkXvh0C-18" value="外部消息/文档读取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-209.5" y="3160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HwoK8IN2lTrdyxkXvh0C-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="3270" width="247.5" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="HwoK8IN2lTrdyxkXvh0C-20" value="SMGWdemo1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-264.5" y="3270" width="92" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HwoK8IN2lTrdyxkXvh0C-21" value="Client1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-204.5" y="3300" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HwoK8IN2lTrdyxkXvh0C-22" value="Server1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-204.5" y="3490" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HwoK8IN2lTrdyxkXvh0C-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HwoK8IN2lTrdyxkXvh0C-18" target="HwoK8IN2lTrdyxkXvh0C-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-312.5" y="3110" as="sourcePoint" />
+            <mxPoint x="-262.5" y="3060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HwoK8IN2lTrdyxkXvh0C-24" value="回执队列&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Clear Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Segoe UI Emoji&amp;quot;, sans-serif; font-size: 16px; orphans: 4; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;c_rpt_snd&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-259.5" y="3400" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HwoK8IN2lTrdyxkXvh0C-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="HwoK8IN2lTrdyxkXvh0C-22" target="HwoK8IN2lTrdyxkXvh0C-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-352.5" y="3600" as="sourcePoint" />
+            <mxPoint x="-302.5" y="3550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HwoK8IN2lTrdyxkXvh0C-26" value="生成回执插入队列" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-149.5" y="3440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HwoK8IN2lTrdyxkXvh0C-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HwoK8IN2lTrdyxkXvh0C-24" target="HwoK8IN2lTrdyxkXvh0C-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-412.5" y="3530" as="sourcePoint" />
+            <mxPoint x="-362.5" y="3480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HwoK8IN2lTrdyxkXvh0C-28" value="取出回执" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-145" y="3360" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
