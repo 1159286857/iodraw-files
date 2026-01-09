@@ -420,7 +420,7 @@
           <mxGeometry x="-532.5" y="3360" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HwoK8IN2lTrdyxkXvh0C-18" value="外部消息/文档读取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-204.5" y="3600" width="120" height="60" as="geometry" />
+          <mxGeometry x="-209.5" y="3590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HwoK8IN2lTrdyxkXvh0C-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-280" y="3270" width="257.5" height="280" as="geometry" />
@@ -443,7 +443,7 @@
         <mxCell id="HwoK8IN2lTrdyxkXvh0C-28" value="取出回执" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-210" y="3450" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HwoK8IN2lTrdyxkXvh0C-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="HwoK8IN2lTrdyxkXvh0C-21">
+        <mxCell id="HwoK8IN2lTrdyxkXvh0C-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="HwoK8IN2lTrdyxkXvh0C-18" target="HwoK8IN2lTrdyxkXvh0C-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-420" y="3680" as="sourcePoint" />
             <mxPoint x="-370" y="3630" as="targetPoint" />
