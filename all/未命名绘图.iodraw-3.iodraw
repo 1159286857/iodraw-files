@@ -524,13 +524,12 @@
         <mxCell id="HwoK8IN2lTrdyxkXvh0C-50" value="接收forward包队列" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-229.5" y="3190" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HwoK8IN2lTrdyxkXvh0C-51" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="HwoK8IN2lTrdyxkXvh0C-51" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="HwoK8IN2lTrdyxkXvh0C-50">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-220" y="3100" as="sourcePoint" />
-            <mxPoint x="-170" y="3050" as="targetPoint" />
+            <mxPoint x="-180" y="3300" as="sourcePoint" />
+            <mxPoint x="-130" y="3250" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-170" y="3100" />
-              <mxPoint x="-220" y="3050" />
+              <mxPoint x="-180" y="3250" />
             </Array>
           </mxGeometry>
         </mxCell>
