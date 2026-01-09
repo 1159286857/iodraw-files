@@ -522,7 +522,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HwoK8IN2lTrdyxkXvh0C-50" value="Server2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="3240" width="110" height="40" as="geometry" />
+          <mxGeometry x="-230" y="3210" width="135.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
