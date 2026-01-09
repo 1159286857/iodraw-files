@@ -381,7 +381,7 @@
           <mxGeometry x="-597" y="3160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HwoK8IN2lTrdyxkXvh0C-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-657.5" y="3270" width="257.5" height="270" as="geometry" />
+          <mxGeometry x="-657.5" y="3270" width="247.5" height="280" as="geometry" />
         </mxCell>
         <mxCell id="HwoK8IN2lTrdyxkXvh0C-7" value="SMGWdemo1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-652" y="3270" width="92" height="30" as="geometry" />
@@ -399,7 +399,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HwoK8IN2lTrdyxkXvh0C-13" value="回执队列&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Clear Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Segoe UI Emoji&amp;quot;, sans-serif; font-size: 16px; orphans: 4; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;c_rpt_snd&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-650" y="3400" width="220" height="20" as="geometry" />
+          <mxGeometry x="-647" y="3400" width="220" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
