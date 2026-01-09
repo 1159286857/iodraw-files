@@ -407,7 +407,7 @@
             <mxPoint x="-690" y="3550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HwoK8IN2lTrdyxkXvh0C-15" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="HwoK8IN2lTrdyxkXvh0C-15" value="生成回执插入队列" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-532" y="3440" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
